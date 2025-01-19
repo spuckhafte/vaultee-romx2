@@ -4,7 +4,7 @@ A Blockchain-Based eVault for Legal Records
 **this prototype is very basic, there are lot of changes that have to be done**
  - better error management
  - better design
- - **distributed** blockchain
+ - implement new self created concepts
  - support all files (only `.txt` for now)
 
 # how to run
